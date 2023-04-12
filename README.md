@@ -1,4 +1,6 @@
-Here is Michael!
+# Helloooo
+
+Here is Michael! 👋
 
 I am an undergraduate student at McGill University, major in Computer Science degree, I will be graduated in 2026! 🧑‍🎓
 
