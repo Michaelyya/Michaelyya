@@ -1,4 +1,4 @@
-# Helloooo
+# Hello
 
 Here is Michael! 👋
 
