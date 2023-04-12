@@ -11,5 +11,5 @@ Feel free to get in touch 🤝！
 ## Fllow me on social
 
 <a href="https://www.linkedin.com/in/yongan-yu-0327an/" target="_blank">
-<img src="https://github.com/Michaelyya/public-images/blob/main/174857.png" alt="LinkedIn logo" | width= "200"/>
+<img src="https://github.com/Michaelyya/public-images/blob/main/174857.png" alt="LinkedIn logo" | width= "100"/>
 </a>
