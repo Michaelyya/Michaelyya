@@ -1,6 +1,7 @@
 # Hello👋
 
-Here is Michael! 
+Here is Michael!        <img src="![image](https://user-images.githubusercontent.com/120589837/231780964-bb17f6ed-96d7-404b-80e9-46287d27c3bc.png)"
+
 
 I am an undergraduate student at McGill University, major in Computer Science degree, I will be graduated in 2026! 🧑‍🎓
 
