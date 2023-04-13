@@ -1,8 +1,7 @@
 # Hello👋
-
-Here is Michael!        
-
-                            ![trex-pc (1)](https://user-images.githubusercontent.com/120589837/231785121-4e52b0ab-784e-4074-8d5d-493fe9d6304d.gif)
+        
+![trex-pc](https://user-images.githubusercontent.com/120589837/231785526-da03c915-f6b3-4ae5-89d6-c45f5915d514.gif = 100x100)
+Here is Michael!
 
 I am an undergraduate student at McGill University, major in Computer Science degree, I will be graduated in 2026! 🧑‍🎓
 
