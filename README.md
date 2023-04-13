@@ -1,6 +1,8 @@
 # Hello👋
 
-Here is Michael!        <img src="https://github.com/Michaelyya/public-images/blob/main/trex-pc.gif" alt="dinosaur" | width = "50" />
+Here is Michael!        
+<img src="https://github.com/Michaelyya/public-images/blob/main/trex-pc.gif" alt="dinosaur" | width = "50" />
+</a>
 
 
 I am an undergraduate student at McGill University, major in Computer Science degree, I will be graduated in 2026! 🧑‍🎓
