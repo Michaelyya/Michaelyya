@@ -9,9 +9,7 @@
 
 I am currently looking for a Summer 2024 Internship(Canada), plz feel free to contact me at: yongan.yu@mail.mcgill.ca
 
-Feel free to get in touch 🤝 ！
-
-## Follow me on social
+## 🤝 Feel free to get in touch
 
 <a href="https://www.linkedin.com/in/yongan-yu-0327an/" target="_blank">
 <img src="https://github.com/Michaelyya/public-images/blob/main/174857.png" alt="LinkedIn logo" | width= "70"/>
