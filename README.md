@@ -1,6 +1,5 @@
-# Hello👋 Here is Michael!
+# Hello👋 Here is Yongan(Michael) Yu!
         
-![trex-pc|100](https://user-images.githubusercontent.com/120589837/231785526-da03c915-f6b3-4ae5-89d6-c45f5915d514.gif)
 
 I am an undergraduate student at McGill University, major in Computer Science degree, I will be graduated in 2026! 🧑‍🎓
 
@@ -13,3 +12,5 @@ Feel free to get in touch 🤝！
 <a href="https://www.linkedin.com/in/yongan-yu-0327an/" target="_blank">
 <img src="https://github.com/Michaelyya/public-images/blob/main/174857.png" alt="LinkedIn logo" | width= "70"/>
 </a>
+
+![trex-pc|100](https://user-images.githubusercontent.com/120589837/231785526-da03c915-f6b3-4ae5-89d6-c45f5915d514.gif)
