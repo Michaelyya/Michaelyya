@@ -1,13 +1,17 @@
-# Hello👋 Here is Yongan(Michael) Yu!
-        
+# Hello👋 I'm Yongan(Michael) Yu!
 
-I am an undergraduate student at McGill University, major in Computer Science degree, I will be graduated in 2026! 🧑‍🎓
+### 🎓 Education 
+- McGill University - undergrad in Computer Science ('26🧑‍🎓)
 
-I am currently working on research at McGill as a research assistant, the research is about cancer and my responsibility is model-making through C++ and Chaste, and help researchers to analyze models! 🦠💻
+### 💼 Position
+- Undergraduate research assistant at McGill on cell simulation model-making about cancer 🦠
+- Animal care technician assistant at Neuro. Montreal Neurological Institute-Hospital 🐒
 
-Feel free to get in touch 🤝！
+I am currently looking for a Summer 2024 Internship(Canada), plz feel free to contact me at: yongan.yu@mail.mcgill.ca
 
-## Fllow me on social
+Feel free to get in touch 🤝 ！
+
+## Follow me on social
 
 <a href="https://www.linkedin.com/in/yongan-yu-0327an/" target="_blank">
 <img src="https://github.com/Michaelyya/public-images/blob/main/174857.png" alt="LinkedIn logo" | width= "70"/>
