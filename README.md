@@ -30,6 +30,15 @@
 </div>
 <br/>
 
+## ⚒️ Frameworks, Languages and Tools
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,spring,aws,gcp,git,github,gitlab" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,bash,html,css,vim,mongodb,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,ai,bootstrap,cmake,nginx,selenium,pytorch,sklearn,tensorflow,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,vercel,heroku,matlab,vim,vscode,eclipse,pycharm,ps,pr" />
+</div>
+<br/><br/>
 
 
 ![trex-pc|100](https://user-images.githubusercontent.com/120589837/231785526-da03c915-f6b3-4ae5-89d6-c45f5915d514.gif)
