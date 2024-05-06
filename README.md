@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,react,spring,aws,gcp,git,github,gitlab" /><br>
     <img src="https://skillicons.dev/icons?i=python,java,javascript,bash,html,css,vim,mongodb,redis" /><br>
     <img src="https://skillicons.dev/icons?i=pytorch,ai,bootstrap,cmake,nginx,selenium,pytorch,sklearn,tensorflow,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,vercel,heroku,matlab,vim,vscode,eclipse,pycharm,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=postman,vercel,heroku,matlab,vim,vscode,eclipse,clion,pycharm,ps,pr" />
 </div>
 <br/><br/>
 
