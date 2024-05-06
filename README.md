@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Michaelyya"/>
 # Hello👋 I'm Yongan(Michael) Yu!
 
 ### 🎓 Education 
