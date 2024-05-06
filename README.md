@@ -18,20 +18,18 @@
 ## 🤝 Feel free to get in touch
 
 <div align="center"> 
-  <a href="mailto:283149519du@gmail.com">
+  <a href="mailto:yya040327@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-109010?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/xianda" target="_blank">
+  <a href="https://www.linkedin.com/in/yongan-yu-0327an/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.allendu.me" target="_blank">
+  <a href="https://michaelyya.github.io/Michael_Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=/e/&logoColor=white" target="_blank" />
   </a>
 </div>
 <br/>
 
-<a href="https://www.linkedin.com/in/yongan-yu-0327an/" target="_blank">
-<img src="https://github.com/Michaelyya/public-images/blob/main/174857.png" alt="LinkedIn logo" | width= "70"/>
-</a>
+
 
 ![trex-pc|100](https://user-images.githubusercontent.com/120589837/231785526-da03c915-f6b3-4ae5-89d6-c45f5915d514.gif)
