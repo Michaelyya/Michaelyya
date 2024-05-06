@@ -12,8 +12,9 @@
 ## 💼 I am actively looking for Internships in Canada 🇨🇦
 -  Machine Learning Engineer 💻
 -  Computational Biology & Bioinformatics 🧑‍🔬
--  Full Stack Engineer 🎨 
-  Summer 2025 Internship, please feel free to contact me at: yongan.yu@mail.mcgill.ca
+-  Full Stack Engineer 🎨
+
+Still looking for Fall 2024 Internship, please feel free to contact me at: yongan.yu@mail.mcgill.ca
 
 ## 🤝 Feel free to get in touch
 
