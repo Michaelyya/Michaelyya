@@ -6,7 +6,7 @@
 - McGill University - undergrad in Computer Science ('26🧑‍🎓)
 
 ### ⚙️ Current Positions
-- Undergraduate Researcher at Open Data Rescue McGill for project "Weather Vulnerabilities to Past and Present Disruptive Weather" ☁️
+- Undergraduate researcher at Open Data Rescue McGill for the project "Weather Vulnerabilities to Past and Present Disruptive Weather" ☁️
 - Undergraduate research assistant at McGill on cell simulation model-making about cancer 🦠
 - Animal care technician assistant at Neuro. Montreal Neurological Institute-Hospital 🐒
 
@@ -15,7 +15,7 @@
 -  Machine Learning Engineer 💻
 -  Computational Biology & Bioinformatics 🧑‍🔬
 
-Still looking for Fall 2024 Internship, please feel free to contact me at: yongan.yu@mail.mcgill.ca
+please feel free to contact me at: yongan.yu@mail.mcgill.ca
 
 ## 🤝 Feel free to get in touch
 
