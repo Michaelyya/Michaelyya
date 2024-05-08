@@ -10,9 +10,9 @@
 - Animal care technician assistant at Neuro. Montreal Neurological Institute-Hospital 🐒
 
 ## 💼 I am actively looking for Internships in Canada 🇨🇦
+-  GenAI positions 🎨
 -  Machine Learning Engineer 💻
 -  Computational Biology & Bioinformatics 🧑‍🔬
--  Full Stack Engineer 🎨
 
 Still looking for Fall 2024 Internship, please feel free to contact me at: yongan.yu@mail.mcgill.ca
 
