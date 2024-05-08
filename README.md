@@ -5,7 +5,8 @@
 ### 🎓 Education 
 - McGill University - undergrad in Computer Science ('26🧑‍🎓)
 
-### ⚙️ Position
+### ⚙️ Current Positions
+- Undergraduate Researcher at Open Data Rescue McGill for project "Weather Vulnerabilities to Past and Present Disruptive Weather" ☁️
 - Undergraduate research assistant at McGill on cell simulation model-making about cancer 🦠
 - Animal care technician assistant at Neuro. Montreal Neurological Institute-Hospital 🐒
 
