@@ -26,7 +26,7 @@ please feel free to contact me at: yongan.yu@mail.mcgill.ca
   <a href="https://www.linkedin.com/in/yongan-yu-0327an/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://michaelyya.github.io/Michael_Portfolio/" target="_blank">
+  <a href="https://michaelyya.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=/e/&logoColor=white" target="_blank" />
   </a>
 </div>
