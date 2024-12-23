@@ -10,11 +10,6 @@
 - Undergraduate research assistant at McGill on cell simulation model-making about cancer 🦠
 - Animal care technician assistant at Neuro. Montreal Neurological Institute-Hospital 🐒
 
-## 💼 I am actively looking for Internships in Canada 🇨🇦
--  GenAI positions 🎨
--  Machine Learning Engineer 💻
--  Computational Biology & Bioinformatics 🧑‍🔬
-
 please feel free to contact me at: yongan.yu@mail.mcgill.ca
 
 ## 🤝 Feel free to get in touch
