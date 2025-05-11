@@ -5,8 +5,7 @@
 ### 🎓 Education 
 - McGill University - undergrad in Computer Science ('26🧑‍🎓)
 
-I do AI research for Social Good
-## 🤝 Feel free to get in touch
+## 🌍 I do AI research for Social Good
 
 <div align="center"> 
   <a href="mailto:yya040327@gmail.com">
