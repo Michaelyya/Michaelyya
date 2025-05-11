@@ -5,13 +5,7 @@
 ### 🎓 Education 
 - McGill University - undergrad in Computer Science ('26🧑‍🎓)
 
-### ⚙️ Current Positions
-- Undergraduate researcher at DRAW McGill for the project "Weather Vulnerabilities to Past and Present Disruptive Weather" ☁️
-- Undergraduate research assistant at McGill on cell simulation model-making about cancer 🦠
-- Animal care technician assistant at Neuro. Montreal Neurological Institute-Hospital 🐒
-
-please feel free to contact me at: yongan.yu@mail.mcgill.ca
-
+I do AI research for Social Good
 ## 🤝 Feel free to get in touch
 
 <div align="center"> 
@@ -26,16 +20,6 @@ please feel free to contact me at: yongan.yu@mail.mcgill.ca
   </a>
 </div>
 <br/>
-
-## ⚒️ Frameworks, Languages and Tools
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,spring,aws,gcp,git,github,gitlab" /><br>
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,bash,html,css,vim,mongodb,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=pytorch,ai,bootstrap,cmake,nginx,selenium,pytorch,sklearn,tensorflow,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,vercel,heroku,matlab,vim,vscode,eclipse,clion,pycharm,ps,pr" />
-</div>
-<br/><br/>
 
 
 <p align="center">
