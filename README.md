@@ -3,7 +3,8 @@
 # Hello👋 I'm Yongan(Michael) Yu!
 
 ### 🎓 Education 
-- McGill University - undergrad in Computer Science ('26🧑‍🎓)
+- McGill University & Mila Institute - Research Master's in Computer Science ('28🧑‍🎓)
+- McGill University - Undergrad in Computer Science ('26🧑‍🎓)
 
 ## 🌍 I do AI research for Social Good
 
